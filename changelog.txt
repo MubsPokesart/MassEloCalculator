@@ -1,0 +1,3 @@
+CHANGELOG.TXT 
+This file serves as a changelog for all the ELO calculations done in case of questions on how things were calculated or in the case of finding errors.
+_______________________
